@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leka-sda&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
-  ##
+  ## Entre em contato
  
 <div> 
 <a href="https://www.linkedin.com/in/giselesodre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
