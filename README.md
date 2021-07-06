@@ -14,6 +14,7 @@
 <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" ><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/leka-sda/leka-sda/blob/output/github-contribution-grid-snake.svg)
+<i>"A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito"</i><br>
+ -| Rei Salomão |-
  
 </div>
