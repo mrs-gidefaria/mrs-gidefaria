@@ -1,4 +1,4 @@
-## Oi, pessoal! Eu sou a Gi Sodré! 
+# Oi, pessoal! Eu sou a Gi Sodré! 
  <div>
   <a href="https://github.com/leka-sda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leka-sda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,6 @@
 <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" ><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
-<i>"A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito"</i><br>
- -| Rei Salomão |-
+### "A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito" -| Rei Salomão |-
  
 </div>
