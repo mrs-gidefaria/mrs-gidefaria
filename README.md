@@ -11,4 +11,5 @@
 <a href="https://www.linkedin.com/in/giselesodre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:gisodre.sda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
