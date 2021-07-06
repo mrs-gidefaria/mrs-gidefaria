@@ -15,3 +15,7 @@
 <a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" ><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
 </div>
+
+<div>
+ <img src="https://github.com/leka-sda/leka-sda/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+</div>
