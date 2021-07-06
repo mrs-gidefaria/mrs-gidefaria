@@ -13,9 +13,7 @@
 <a href = "mailto:gisodre.sda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" ><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
-</div>
 
-<div>
- <img src="https://github.com/leka-sda/leka-sda/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+  ![Snake animation](https://github.com/leka-sda/leka-sda/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
