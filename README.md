@@ -16,4 +16,6 @@
 
 ### "A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito" -| Rei Salomão |-
  
+ ![Snake animation](https://github.com/leka-sda/leka-sda/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
