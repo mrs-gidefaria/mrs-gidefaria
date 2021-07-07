@@ -1,8 +1,9 @@
-# Oi, pessoal! Eu sou a Gi Sodré! 
- <div>
+# Oi, pessoal! Sou a Gi Sodré
+ 
+<div>
   <a href="https://github.com/leka-sda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leka-sda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leka-sda&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leka-sda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leka-sda&layout=compact&langs_count=8&theme=dracula"/>
 </div>
  
   ## Entre em contato
