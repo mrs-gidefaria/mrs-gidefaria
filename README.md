@@ -10,10 +10,12 @@
  
 <div> 
  
-<a href="https://www.linkedin.com/in/giselesodre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:gisodre.sda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" ><img src="https://img.shields.io/badge/-Whatsapp-%128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<!-- <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> --> 
+<a href="https://www.linkedin.com/in/giselesodre" target="_blank"><img src="https://img.shields.io/badge/%20-LinkedIn-blue" target="_blank"></a> 
+<a href = "mailto:gisodre.sda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%20-E--mail-red" target="_blank"></a>
+<a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/%20-WhatsApp-brightgreen" target="_blank"></a>
+<a href="https://msng.link/o/?@gisodre_sda=tg" target="_blank"><img src="https://img.shields.io/badge/%20-Telegram-blueviolet" target="_blank"></a>
+<a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/%20-Instagram-ff69b4" target="_blank"></a>
+<a href="https://open.spotify.com/user/giselesodre74?si=98cf78983e76479d&nd=1" target="_blank"><img src="https://img.shields.io/badge/%20-Spotify-yellowgreen" target="_blank"></a>
 
 
 ### "A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito" <br> -| Rei Salomão |-
