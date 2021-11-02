@@ -18,7 +18,7 @@
 <a href="https://open.spotify.com/user/giselesodre74?si=98cf78983e76479d&nd=1" target="_blank"><img src="https://img.shields.io/badge/%20-Spotify-yellowgreen" target="_blank"></a>
 
 
-### "A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito" <br> -| Rei Salomão |-
+#### "A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito" <br> -| Rei Salomão |-
  
 ![Snake animation](https://github.com/leka-sda/leka-sda/blob/output/github-contribution-grid-snake.svg)
  
