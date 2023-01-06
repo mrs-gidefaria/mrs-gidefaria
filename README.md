@@ -1,7 +1,7 @@
 # Oi, pessoal! Sou a Gi Sodré
  
 <div>
-  <a href="https://github.com/leka-sda">
+  <a href="https://github.com/lekaxl-qa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leka-sda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leka-sda&layout=compact&langs_count=8&theme=dracula"/>
 </div>
@@ -20,6 +20,6 @@
 
 #### "A nossa caminhada é como a luz da aurora que vai brilhando mais e mais até se tornar num dia perfeito" <br> -| Rei Salomão |-
  
-![Snake animation](https://github.com/leka-sda/leka-sda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lekaxl-qa/leka-sda/blob/output/github-contribution-grid-snake.svg)
  
 </div>
