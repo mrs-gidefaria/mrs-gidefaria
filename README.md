@@ -1,10 +1,38 @@
 # Oi, pessoal! Sou a Gi Sodré
+
+🌺 Formada em Análise e Desenvolvimento de Sistemas, **sou Analista de Testes**, com experiência em:
+- Edição de plano de testes;
+- Documentação com evidências;
+- Criação de cenários de testes;
+- BDD;
+- Testes funcionais (caixa preta)
+- Testes de usabilidade
+- Testes de desempenho
+- Testes exploratórios
+- Testes de regressão
+- Testes de performance
+- Testes de integração. 
+
+👩🏻‍💻 Também possuo algumas habilidades com **desenvolvimento frontend**, como
+- HTML
+- CSS
+- JavaScript
+
+Já venho de uma trajetória de atividades relacionadas à criação de materiais gráficos, tanto para impressão rápida como para divulgação nas mídias sociais.
+
+🙋🏻 Como **trabalho voluntário**, em 2016, trabalhei no projeto Adventech Ministry, através do qual eu fiz uma viagem para conhecer sua sede em Toronto, ON, Canadá. Eu fui responsável pela criação de materiais para divulgação do aplicativo do projeto nas mídias sociais e prestava atendimento aos usuários em inglês, espanhol e português. Tenho outras experiências com voluntariado com artes (dança, música e teatro), secretariado, tesouraria, comunicação, [Clube de Desbravadores](https://clubes.adventistas.org/br/) e etc.
+
+
+### Já deu um pulinho ali no meu site?
+
+
+
  
-<div>
+<!-- <div>
   <a href="https://github.com/lekaxl-qa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lekaxl-qa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekaxl-qa&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+</div> -->
  
   ## Entre em contato
  
