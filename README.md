@@ -36,16 +36,14 @@ Já venho de uma trajetória de atividades relacionadas à **criação de materi
 
 <div align="center">
  
-  ### Já deu um pulinho ali no [meu site](https://www.xltech.com.br)?
+  ### 🤩 Já deu um pulinho ali no [meu site](https://www.xltech.com.br)? 🤩
   <img src="https://user-images.githubusercontent.com/67244332/212208791-981b5a9d-102f-4273-a5a3-c5163961fc3d.gif" width="500px" />
  
 </div>
 
 <div align="center">
- 
-  ### Entre em contato comigo
   
-  <a href="https://www.beacons.ai/lekaxl.qa" target="_blank"><img src="https://img.shields.io/badge/%20-Todos os meus links-ff69b4" target="_blank"></a> 
+  <br><a href="https://www.beacons.ai/lekaxl.qa" target="_blank"><img src="https://img.shields.io/badge/%20-Mais sobre mim-ff69b4" target="_blank" width="150px"></a> 
  
 <div> 
  
@@ -56,7 +54,8 @@ Já venho de uma trajetória de atividades relacionadas à **criação de materi
 <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/%20-Instagram-ff69b4" target="_blank"></a>
 <a href="https://open.spotify.com/user/giselesodre74?si=98cf78983e76479d&nd=1" target="_blank"><img src="https://img.shields.io/badge/%20-Spotify-yellowgreen" target="_blank"></a> -->
 
-#### "A vereda do justo é como a luz da alvorada, que brilha cada vez mais até à plena claridade do dia." <br> -| Rei Salomão |-
+"𝐴 𝑣𝑒𝑟𝑒𝑑𝑎 𝑑𝑜 𝑗𝑢𝑠𝑡𝑜 𝑒 𝑐𝑜𝑚𝑜 𝑎 𝑙𝑢𝑧 𝑑𝑎 𝑎𝑙𝑣𝑜𝑟𝑎𝑑𝑎, 𝑞𝑢𝑒 𝑏𝑟𝑖𝑙ℎ𝑎 𝑐𝑎𝑑𝑎 𝑣𝑒𝑧 𝑚𝑎𝑖𝑠 𝑎𝑡𝑒 𝑎 𝑝𝑙𝑒𝑛𝑎 𝑐𝑙𝑎𝑟𝑖𝑑𝑎𝑑𝑒 𝑑𝑜 𝑑𝑖𝑎." 
+ <br> *-| Rei Salomão |-*
  
 </div>
 
