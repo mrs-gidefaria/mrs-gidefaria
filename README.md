@@ -11,8 +11,22 @@
  ![Snake animation](https://github.com/lekaxl-qa/leka-sda/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
 
-🌺 Formada em Análise e Desenvolvimento de Sistemas, **sou Analista de Testes**, com experiência em:
+🌺 Formada em Análise e Desenvolvimento de Sistemas, **sou Analista de Testes**, desbravando:
+  
+  
+ <div align="center">
+   
+      <br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7020924586716217344/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Automação com Cypress⭐-ff69b4" target="_blank" width="200px"></a> 
+      <br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7020926298810126336/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Teste de API com Cypress⭐-c8a2c8" target="_blank" width="200px"></a> 
+
+<div> 
+  
+  
+  
+🌺 Já **tenho experiência** com:
+  
 - Edição de plano de testes;
 - Documentação com evidências;
 - Criação de cenários de testes;
@@ -24,8 +38,9 @@
 - Testes de regressão;
 - Testes de performance; e
 - Testes de integração. 
+  
 
-👩🏻‍💻 Também possuo algumas habilidades com **desenvolvimento frontend**, como:
+👩🏻‍💻 Também possuo algumas **habilidades** com **desenvolvimento frontend**, como:
 - HTML;
 - CSS; e
 - JavaScript.
