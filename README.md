@@ -12,20 +12,24 @@
  
 </div>
   
-
-🌺 Formada em Análise e Desenvolvimento de Sistemas, **sou Analista de Testes**, desbravando:
+<div> 
   
+  <p>🌺 Formada em Análise e Desenvolvimento de Sistemas, <b>sou Analista de Testes</b>, desbravando:</p>
   
- <div align="center">
+</div>
+ 
+<div align="center">
    
       <br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7020924586716217344/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Automação com Cypress⭐-ff69b4" target="_blank" width="200px"></a> 
       <br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7020926298810126336/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Teste de API com Cypress⭐-c8a2c8" target="_blank" width="200px"></a> 
 
 <div> 
   
-  
+<div>
   
 🌺 Já **tenho experiência** com:
+  
+  </div>
   
 - Edição de plano de testes;
 - Documentação com evidências;
