@@ -44,7 +44,7 @@
 
 Já venho de uma trajetória de atividades relacionadas à **criação de materiais gráficos**, tanto para impressão rápida como para divulgação nas mídias sociais.
 
-🙋🏻 Como **trabalho voluntário**, em 2016, trabalhei no projeto Adventech Ministry, através do qual eu fiz uma viagem para conhecer sua sede em Toronto, ON, Canadá. Eu fui responsável pela criação de materiais para divulgação do aplicativo do projeto nas mídias sociais e prestava atendimento aos usuários em inglês, espanhol e português. Tenho outras experiências com voluntariado com artes (dança, música e teatro), secretariado, tesouraria, comunicação, [Clube de Desbravadores](https://clubes.adventistas.org/br/) e etc.
+🙋🏻 Como **trabalho voluntário**, em 2016, eu atuei no projeto Adventech Ministry, através do qual eu fiz uma viagem para conhecer sua sede em Toronto, ON, Canadá. Eu fui responsável pela criação de materiais para divulgação do aplicativo do projeto nas mídias sociais e prestava atendimento aos usuários em inglês, espanhol e português. Tenho outras experiências com voluntariado com artes (dança, música e teatro), secretariado, tesouraria, comunicação, [Clube de Desbravadores](https://clubes.adventistas.org/br/) e etc.
 
 <div align="center">
  
