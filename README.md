@@ -66,7 +66,7 @@ Já venho de uma trajetória de atividades relacionadas à **criação de materi
 <a href="https://instagram.com/gisodre.sda" target="_blank"><img src="https://img.shields.io/badge/%20-Instagram-ff69b4" target="_blank"></a>
 <a href="https://open.spotify.com/user/giselesodre74?si=98cf78983e76479d&nd=1" target="_blank"><img src="https://img.shields.io/badge/%20-Spotify-yellowgreen" target="_blank"></a> -->
 
-"𝐴 𝑣𝑒𝑟𝑒𝑑𝑎 𝑑𝑜 𝑗𝑢𝑠𝑡𝑜 𝑒 𝑐𝑜𝑚𝑜 𝑎 𝑙𝑢𝑧 𝑑𝑎 𝑎𝑙𝑣𝑜𝑟𝑎𝑑𝑎, 𝑞𝑢𝑒 𝑏𝑟𝑖𝑙ℎ𝑎 𝑐𝑎𝑑𝑎 𝑣𝑒𝑧 𝑚𝑎𝑖𝑠 𝑎𝑡𝑒 𝑎 𝑝𝑙𝑒𝑛𝑎 𝑐𝑙𝑎𝑟𝑖𝑑𝑎𝑑𝑒 𝑑𝑜 𝑑𝑖𝑎." 
+"𝐴 𝑣𝑒𝑟𝑒𝑑𝑎 𝑑𝑜 𝑗𝑢𝑠𝑡𝑜 𝑒ℎ 𝑐𝑜𝑚𝑜 𝑎 𝑙𝑢𝑧 𝑑𝑎 𝑎𝑙𝑣𝑜𝑟𝑎𝑑𝑎, 𝑞𝑢𝑒 𝑏𝑟𝑖𝑙ℎ𝑎 𝑐𝑎𝑑𝑎 𝑣𝑒𝑧 𝑚𝑎𝑖𝑠 𝑎𝑡𝑒 𝑎 𝑝𝑙𝑒𝑛𝑎 𝑐𝑙𝑎𝑟𝑖𝑑𝑎𝑑𝑒 𝑑𝑜 𝑑𝑖𝑎." 
  <br> *-| Rei Salomão |-*
  
 </div>
