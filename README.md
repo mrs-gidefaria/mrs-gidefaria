@@ -12,7 +12,7 @@
  
 </div>
   
-### 🌺 Formada em Análise e Desenvolvimento de Sistemas, sou Analista de Testes, desbravando:
+### 🌺 Formada em Análise e Desenvolvimento de Sistemas, sou Analista de Testes, desbravando conhecimentos iniciais em:
  
 <div align="center">
    
