@@ -1,14 +1,14 @@
-# Oi, pessoal! Sou a Gi Sodré
+# Oi, pessoal! Sou a Gi de Faria
 
 <div align="center">
-  <a href="https://github.com/lekaxl-qa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lekaxl-qa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekaxl-qa&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/mrs-gidefaria">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mrs-gidefaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrs-gidefaria&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <div align="center">
 
- ![Snake animation](https://github.com/lekaxl-qa/leka-sda/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mrs-gidefaria/leka-sda/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
@@ -55,7 +55,7 @@ Já venho de uma trajetória de atividades relacionadas à **criação de materi
 
 <div align="center">
   
-  <br><a href="https://www.beacons.ai/lekaxl.qa" target="_blank"><img src="https://img.shields.io/badge/%20-🌺Mais sobre mim🌺-c8a2c8" target="_blank" width="180px" height="30px"></a> 
+  <br><a href="https://www.beacons.ai/mrs_gidefaria" target="_blank"><img src="https://img.shields.io/badge/%20-🌺Mais sobre mim🌺-c8a2c8" target="_blank" width="180px" height="30px"></a> 
  
 <div> 
  
