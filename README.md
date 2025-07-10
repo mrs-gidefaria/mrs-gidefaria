@@ -44,8 +44,6 @@
 - C;
 - Python
 
-*...embora programação não sejam meu foco principal.*
-
 ---
 
 Meu GitHub passou um tempinho abandonado, mas estou recheando ele de coisas legais. Em todos os repositórios aqui do meu GitHub, eu vou deixar uma descrição detalhada no README pra te ajudar a entender o que eu fiz e, se você quiser, pode até aprender comigo! :)
