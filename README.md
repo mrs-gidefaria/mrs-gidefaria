@@ -41,8 +41,8 @@
 - HTML;
 - CSS;
 - JavaScript;
-- C;
-- Python
+- C; e
+- Python.
 
 ---
 
