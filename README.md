@@ -16,9 +16,9 @@
  
 <div align="center">
    
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7020924586716217344/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Automação com Cypress⭐-purple" target="_blank" width="250px" height="30px"></a>
-  <a href="https://github.com/mrs-gidefaria/formRobotFramework" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Robot Framework⭐-blue" target="_blank" width="250px" height="30px"></a> 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7020926298810126336/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Teste de API com Cypress⭐-purple" target="_blank" width="250px" height="30px"></a>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7020924586716217344/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Automação com Cypress⭐-purple" target="_blank" width="200px" height="30px"></a>
+  <a href="https://github.com/mrs-gidefaria/formRobotFramework" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Robot Framework⭐-yellow" target="_blank" width="200px" height="23px"></a> 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7020926298810126336/" target="_blank"><img src="https://img.shields.io/badge/%20-⭐Teste de API com Cypress⭐-purple" target="_blank" width="200px" height="30px"></a>
 
 </div> 
     
@@ -69,9 +69,9 @@ Já venho de uma trajetória de atividades relacionadas à **criação de materi
 ---
 
 ### 🌺 Links Úteis:
-<a href="https://www.linkedin.com/in/giselesodre" target="_blank"><img src="https://img.shields.io/badge/%20-LinkedIn-blue" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/giselesodre" target="_blank"><img src="https://img.shields.io/badge/%20-LinkedIn-yellow" target="_blank"></a> 
 <a href="https://beacons.ai/giselesodre/profissional" target="_blank"><img src="https://img.shields.io/badge/%20-Minha Page-purple" target="_blank"></a>
-<a href = "https://beacons.ai/giselesodre/inicial" target="_blank"><img src="https://img.shields.io/badge/%20-Contatos-blue" target="_blank"></a>
+<a href = "https://beacons.ai/giselesodre/inicial" target="_blank"><img src="https://img.shields.io/badge/%20-Contatos-yellow" target="_blank"></a>
 <!--<a href="https://api.whatsapp.com/send/?phone=5561998839644&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/%20-WhatsApp-brightgreen" target="_blank"></a>
 <a href = "mailto:gisodre.sda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%20-E--mail-red" target="_blank"></a>
 <a href="https://msng.link/o/?@gisodre_sda=tg" target="_blank"><img src="https://img.shields.io/badge/%20-Telegram-blueviolet" target="_blank"></a>
